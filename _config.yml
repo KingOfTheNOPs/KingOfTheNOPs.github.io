@@ -20,7 +20,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://andrew-gomez.github.io/indigo
+url: https://andrew-gomez.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -29,14 +29,15 @@ permalink: /:title/
 # analytics-google: 'UA-MYANALYTICS'
 
 # if you don't want comments in your posts, leave categories empty
-disqus:
-  shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+#disqus:
+#  shortname: github # enter this from your disqus account
+#  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 twitter: andrew_gomez742
 linkedin: gomez742
 github: andrew-gomez
+email: andrew.gomez.1996@gmail.com
 
 authors:
   andrewgomez:
