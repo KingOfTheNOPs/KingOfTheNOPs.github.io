@@ -20,7 +20,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://andrew-gomez.github.io
+url: https://kingofthenops.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -36,7 +36,7 @@ permalink: /:title/
 # if you don't have any of social below, comment the line
 twitter: andrew_gomez742
 linkedin: gomez742
-github: andrew-gomez
+github: kingofthenops
 email: andrew.gomez.1996@gmail.com
 
 authors:
