@@ -34,7 +34,7 @@ permalink: /:title/
 #  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-twitter: andrew_gomez742
+twitter: kingofthenops
 linkedin: gomez742
 github: kingofthenops
 email: andrew.gomez.1996@gmail.com
@@ -42,7 +42,7 @@ email: andrew.gomez.1996@gmail.com
 authors:
   andrewgomez:
     name: Andrew Gomez
-    bio: Cyber Enthusiast 
+    bio: Cybersecurity Enthusiast 
     external-image: false
     picture: assets/images/profile.jpg
 
